@@ -1,0 +1,4 @@
+loadi r0 #100
+loadi r1 #200
+add r2 r0 r1
+halt

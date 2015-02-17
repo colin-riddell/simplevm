@@ -1,0 +1,3 @@
+0 = halt
+1 = loadi
+2 = add
